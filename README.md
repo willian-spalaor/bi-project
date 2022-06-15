@@ -94,3 +94,6 @@ WP-ETL is licensed under the [MIT license](http://opensource.org/licenses/MIT).
 ## Origin of the project
 
 This project is a fork and an improvement of the [marquine/php-etl](https://github.com/leomarquine/php-etl) project by [Leonardo Marquine](https://github.com/leomarquine/php-etl).
+
+Documentação Wizard
+https://github.com/wizacode/php-etl/tree/master/docs
